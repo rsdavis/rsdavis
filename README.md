@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-![](./test.svg)
+![](./snake.svg)
 
-<img src="./test.svg"/>
+<img src="./snake.svg"/>
