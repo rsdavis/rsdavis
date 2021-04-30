@@ -1,5 +1,9 @@
 ### Hi there 👋
 
-<div style="border: 1px solid red">
-  Hello there
-</div>
+<svg>
+  <foreignObject>
+    <div style="border: 1px solid red">
+      Hello there
+    </div>
+  </foreignObject>
+</svg>
